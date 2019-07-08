@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "author": "Contentful <opensource@contentful.com>",
   "bugs": {
-    "url": "https://github.com/contentful/starter-gatsby-blog/issues"
+    "url": "https://github.com/dub10us/starter-gatsby-blog/issues"
   },
   "dependencies": {
     "gatsby": "^1.9.277",
@@ -17,7 +17,7 @@
     "gatsby-transformer-remark": "^1.7.44",
     "lodash": "^4.17.10"
   },
-  "homepage": "https://github.com/contentful/starter-gatsby-blog#readme",
+  "homepage": "https://github.com/dub10us/starter-gatsby-blog#readme",
   "keywords": [
     "gatsby",
     "contentful",
@@ -27,7 +27,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/contentful/starter-gatsby-blog.git"
+    "url": "git+https://github.com/dub10us/starter-gatsby-blog.git"
   },
   "scripts": {
     "dev": "gatsby develop",
